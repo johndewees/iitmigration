@@ -12,5 +12,7 @@ Some scipts also utilize regex
 Each folder in the repo contains the final metadata sheet that was used to add images and metadata to TLCPL CONTENTdm collections as well as the Python scripts used to manipulate that metadata
 
 Progress
+
 2020-12-09 | 892 images | John Vanderlip Photograph Collection
+
 2020-12-11 | 830 images | Herral Long Photograph Collection
