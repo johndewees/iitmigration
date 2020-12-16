@@ -16,3 +16,5 @@ Progress
 2020-12-09 | 892 images | John Vanderlip Photograph Collection
 
 2020-12-11 | 830 images | Herral Long Photograph Collection
+
+2020-12-16 | 691 images | Charles R. Mensing Photograph Collection
