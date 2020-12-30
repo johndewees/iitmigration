@@ -13,7 +13,7 @@ The scripts are written in Python making extensive use of the openpyxl library a
 
 Some scipts also utilize regex
 
-Each folder in the repo contains the final metadata sheet that was used to add images and metadata to TLCPL CONTENTdm collections as well as the Python scripts used to manipulate that metadata
+Each folder in the repo contains the initital data copied over from initial export as well as the final metadata sheet that was used to add images and metadata to TLCPL CONTENTdm collections and the corresponding Python scripts used to manipulate that metadata
 
 Progress
 
