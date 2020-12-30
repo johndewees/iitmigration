@@ -10,7 +10,9 @@ https://www.ohiomemory.org/digital/collection/p16007coll33/
 Metadata for the records stored in Images in Time was exported by the excellent Roxanna Foster
 This metadata still required a great deal of clean-up so this repo includes scripts to automate as much of the process as possible
 The scripts are written in Python making extensive use of the openpyxl library as the metadata is stored in xlsx spreadsheets
+
 Some scipts also utilize regex
+
 Each folder in the repo contains the final metadata sheet that was used to add images and metadata to TLCPL CONTENTdm collections as well as the Python scripts used to manipulate that metadata
 
 Progress
