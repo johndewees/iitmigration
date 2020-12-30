@@ -27,4 +27,4 @@ Progress
 
 2020-12-29 | 242 images | Korb Photographic Company Collection
 
-2020-12-30 | XXX images | Milton Zink Photograph Collection
+2020-12-30 | 765 images | Milton Zink Photograph Collection
