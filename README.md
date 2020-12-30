@@ -3,8 +3,10 @@ A series of scripts written in Python for data manipulation in Excel using openp
 
 Images in Time is a legacy image database created by the Toledo Lucas County Public Library
 http://images2.toledolibrary.org/image_dc_new.asp
+
 These images are being uploaded to CONTENTdm, through Ohio Memory
 https://www.ohiomemory.org/digital/collection/p16007coll33/
+
 Metadata for the records stored in Images in Time was exported by the excellent Roxanna Foster
 This metadata still required a great deal of clean-up so this repo includes scripts to automate as much of the process as possible
 The scripts are written in Python making extensive use of the openpyxl library as the metadata is stored in xlsx spreadsheets
