@@ -28,3 +28,5 @@ Progress
 2020-12-29 | 242 images | Korb Photographic Company Collection
 
 2020-12-30 | 764 images | Milton Zink Photograph Collection
+
+2020-12-31 | 218 images | Rudolph Gartner Photograph Collection
