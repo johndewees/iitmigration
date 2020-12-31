@@ -13,7 +13,7 @@ This metadata still required a great deal of clean-up so this repo includes scri
 
 The scripts are written in Python making extensive use of the openpyxl library as the metadata is stored in xlsx spreadsheets
 
-Some scipts also utilize regex
+Some scipts also utilize regex. While I always attempted to provide before and after views of the metadata, this was occasionally forgotten and only the final product is available
 
 Each folder in the repo contains the initital data copied over from initial export as well as the final metadata sheet that was used to add images and metadata to TLCPL CONTENTdm collections and the corresponding Python scripts used to manipulate that metadata
 
@@ -30,3 +30,5 @@ Progress
 2020-12-30 | 764 images | Milton Zink Photograph Collection
 
 2020-12-31 | 218 images | Rudolph Gartner Photograph Collection
+
+2020-12-31 | 136 images | Wilbur Hague Photograph Collection
