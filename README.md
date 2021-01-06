@@ -19,16 +19,18 @@ Each folder in the repo contains the initital data copied over from initial expo
 
 Progress
 
-2020-12-09 | 892 images | John Vanderlip Photograph Collection
+2020-12-09 | 892 images | John Vanderlip Photograph Collection | aalh_iit_vanderlipcollection
 
-2020-12-11 | 830 images | Herral Long Photograph Collection
+2020-12-11 | 830 images | Herral Long Photograph Collection | aalh_iit_herrallongcollection
 
-2020-12-16 | 617 images | Charles R. Mensing Photograph Collection
+2020-12-16 | 617 images | Charles R. Mensing Photograph Collection | aalh_iit_charlesmensingcollection
 
-2020-12-29 | 242 images | Korb Photographic Company Collection
+2020-12-29 | 242 images | Korb Photographic Company Collection | aalh_iit_korbphotographiccompany
 
-2020-12-30 | 764 images | Milton Zink Photograph Collection
+2020-12-30 | 764 images | Milton Zink Photograph Collection | aalh_iit_miltonzinkcollection
 
-2020-12-31 | 218 images | Rudolph Gartner Photograph Collection
+2020-12-31 | 218 images | Rudolph Gartner Photograph Collection | aalh_iit_rudolphgartnercollection
 
-2020-12-31 | 136 images | Wilbur Hague Photograph Collection
+2020-12-31 | 136 images | Wilbur Hague Photograph Collection | aalh_iit_wilburhaguecollection
+
+2021-01-06 | 300 images | Hauger Photographic Corporation Collection | aalh_iit_haugerphotocorp
