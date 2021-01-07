@@ -36,3 +36,5 @@ Progress
 2021-01-06 | 300 images | Hauger Photographic Corporation Collection | aalh_iit_haugerphotocorp
 
 2021-01-07 | 215 images | Howard MacKenzie Photograph Collection | aalh_iit_howardmackenziecollection
+
+2021-01-07 | 194 images | J. Doyle Witgen Photograph Collection | aalh_iit_jdoylewitgencollection
