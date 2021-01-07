@@ -34,3 +34,5 @@ Progress
 2020-12-31 | 136 images | Wilbur Hague Photograph Collection | aalh_iit_wilburhaguecollection
 
 2021-01-06 | 300 images | Hauger Photographic Corporation Collection | aalh_iit_haugerphotocorp
+
+2021-01-07 | 215 images | Howard MacKenzie Photograph Collection | aalh_iit_howardmackenziecollection
