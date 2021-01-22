@@ -38,3 +38,5 @@ Progress
 2021-01-07 | 215 images | Howard MacKenzie Photograph Collection | aalh_iit_howardmackenziecollection
 
 2021-01-07 | 194 images | J. Doyle Witgen Photograph Collection | aalh_iit_jdoylewitgencollection
+
+2021-01-21 | 2636 images | Ted Ligibel Photograph Collection | aalh_iit_tedligibelcollection
