@@ -40,3 +40,5 @@ Progress
 2021-01-07 | 194 images | J. Doyle Witgen Photograph Collection | aalh_iit_jdoylewitgencollection
 
 2021-01-21 | 2636 images | Ted Ligibel Photograph Collection | aalh_iit_tedligibelcollection
+
+2021-01-26 | 498 images | aalh_iit_buildings_01
