@@ -42,3 +42,5 @@ Progress
 2021-01-21 | 2636 images | Ted Ligibel Photograph Collection | aalh_iit_tedligibelcollection
 
 2021-01-26 | 498 images | aalh_iit_buildings_01
+
+2021-01-27 | 495 images | aalh_iit_peopleportraits_001
