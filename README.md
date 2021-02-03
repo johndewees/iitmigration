@@ -48,3 +48,5 @@ Progress
 2021-01-29 | 507 images | aalh_iit_transportation_001
 
 2021-01-30 | 508 images | aalh_iit_peopleportraits_002
+
+2021-02-02 | 499 images | aalh_iit_buildings_02
