@@ -64,3 +64,5 @@ Progress
 2021-02-17 | 532 images | aalh_iit_peopleportraits_005
 
 2021-02-18 | 581 images | aalh_iit_peopleportraits_006
+
+2021-02-23 | 491 images | aalh_iit_buildings_05
