@@ -90,3 +90,5 @@ Progress
 2021-03-16 | 531 images | aalh_iit_buildings_009
 
 2021-03-19 | 593 images | aalh_iit_buildings_010
+
+2021-03-22 | 195 images | aalh_iit_celebrations_001
